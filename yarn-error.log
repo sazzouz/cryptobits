@@ -1,0 +1,36 @@
+Arguments: 
+  /home/szzz/.nvm/versions/node/v14.17.1/bin/node /home/szzz/.nvm/versions/node/v14.17.1/bin/yarn init
+
+PATH: 
+  /home/szzz/.poetry/bin:/home/szzz/.yarn/bin:/home/szzz/.nvm/versions/node/v14.17.1/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/Program Files/Common Files/Oracle/Java/javapath:/mnt/c/Program Files (x86)/VMware/VMware Workstation/bin/:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files/PuTTY/:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Users/sazzo/AppData/Roaming/nvm:/mnt/c/Program Files/nodejs:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/Git LFS:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/ProgramData/DockerDesktop/version-bin:/mnt/c/Users/sazzo/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/sazzo/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/sazzo/AppData/Local/GitHubDesktop/bin:/mnt/c/Users/sazzo/flutter/bin:/mnt/c/Users/sazzo/AppData/Local/Android/Sdk/platform-tools:/mnt/c/Users/sazzo/.dotnet/tools:/mnt/c/Program Files (x86)/GitHub CLI/:~/.local/bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.17.1
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/home/szzz/.nvm/versions/node/v14.17.1/lib/node_modules/yarn/lib/cli.js:136216:13)
+      at Interface.emit (events.js:375:28)
+      at Interface._ttyWrite (readline.js:910:16)
+      at ReadStream.onkeypress (readline.js:235:10)
+      at ReadStream.emit (events.js:375:28)
+      at emitKeys (internal/readline/utils.js:358:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1179:36)
+      at ReadStream.emit (events.js:375:28)
+      at addChunk (internal/streams/readable.js:290:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

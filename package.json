@@ -1,0 +1,8 @@
+{
+  "name": "cryptobits",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sazzouz/cryptobits.git",
+  "author": "Samir Azzouz <s.azzouz97@gmail.com>",
+  "license": "MIT"
+}
