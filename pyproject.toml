@@ -7,6 +7,8 @@ authors = ["Samir Azzouz <s.azzouz97@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 pycoingecko = "^2.2.0"
+ShopifyAPI = "^8.4.2"
+python-dotenv = "^0.19.0"
 
 [tool.poetry.dev-dependencies]
 black = {version = "^21.7b0", allow-prereleases = true}
