@@ -1,7 +1,7 @@
 import React, { useRef } from "react";
 import S3 from "react-aws-s3";
 
-const Upload = () => {
+const AwsUpload = () => {
   const fileInput = useRef();
 
   const handleClick = (event) => {
@@ -44,4 +44,4 @@ const Upload = () => {
   );
 };
 
-export default Upload;
+export default AwsUpload;
